@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Testing Multiple Manifests" ] },
+    "summary": { "en": [ "This is just a test of pulling in multiple manfiests to be used for the SpokenWeb Anthology" ] },
+    "items": [
+    ]
+}
